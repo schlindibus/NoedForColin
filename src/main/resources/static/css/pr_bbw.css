@@ -1,0 +1,45 @@
+.pr_bg_green {
+  background: #800080;
+}
+
+.pr_border_solid {
+  border-style: solid;
+  border-color: #800080;
+}
+
+.pr_text_green {
+  color: #800080;
+}
+
+.pr_center {
+  position: relative;
+  transform: translate(50%, 25%);
+}
+
+.panel-body
+{
+    overflow-y: scroll;
+    height: 500px;
+}
+
+.media-list .media {
+  margin-top: 30px;
+  border-bottom: 1px dotted #eee;
+  padding-bottom: 10px;
+}
+
+.media-list .media {
+  border: none;
+}
+
+.media .pull-left {
+  margin-right: 15px;
+}
+
+.media .pull-right {
+  margin-left: 15px;
+}
+
+.error-summary-item {
+  color: red;
+}
